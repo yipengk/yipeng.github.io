@@ -14,15 +14,14 @@
     ]
   },
   "interests": [
-    { "name": "pet" },
+    { "name": "dogs" },
     { "name": "cooking" },
-    { "name": "mobile games" },
-    { "name": "Robotics" }
+    { "name": "mobile games" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Perl" ]
     },
     {
       "name": "Toolsets/OS",
@@ -32,9 +31,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-09-01",
       "endDate": "Present",
       "courses": [
       ]
