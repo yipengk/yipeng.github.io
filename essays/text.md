@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "E10: Reflect on Javascript 1"
+title: "New Challenge"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-29
 published: true
