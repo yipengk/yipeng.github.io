@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://www.computerhope.com/jargon/j/javascript.png
+image: img/2st.png
 title: "Homework WOD"
 date: 2023-08-31
 published: true
@@ -14,7 +14,7 @@ summary: "isUnique."
  
 
 <div class="text-center p-4">
-  <img width="200px" src="https://www.computerhope.com/jargon/j/javascript.png" class="img-thumbnail" >
+  <img width="400px" src="https://www.computerhope.com/jargon/j/javascript.png" class="img-thumbnail" >
  
 </div>
 
