@@ -17,5 +17,4 @@ summary: "Group activity: Drawing a map of Oceania."
   <img width="600px" src="https://i.imgur.com/JApQAuT.jpg" >
  
 </div>
-
-This is a map of Oceania that I completed with my group members in PACS108, which I am mainly responsible for painting Polynesia. This is just a blue ocean on the globe, but in reality, there are a dozen countries and tens of thousands of islands scattered like stars in the Pacific Ocean. Oceania includes three island regions: Melanesia, Micronesia, and Polynesia. (Hawaii is part of Polynesia. It is the northern most extent of the Polynesian cultural region.)This map allowed us to learn more about the land area of Oceania.
+This is the Oceania map my team members and I completed in PACS108. Together with another team member, I was mainly responsible for drawing Polynesia. If we look at it on a globe, this area is just a blue ocean on the globe, but in reality, a dozen countries and tens of thousands of islands are scattered like stars in the Pacific Ocean. Oceania includes three island regions: Melanesia, Micronesia, and Polynesia. (Our home, Hawaii is part of Polynesia. It is the northern most extent of the Polynesian cultural region.) This map allowed us to learn more about the land area of Oceania.
