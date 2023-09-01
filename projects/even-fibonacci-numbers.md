@@ -21,8 +21,8 @@ summary: "Take the items in the Fibonacci sequence that are no more than four mi
 My code is as follows:
 
 ```javascript
-let num1 = 1; //Initialize the first Fibonacci number
-let num2 = 2; //Initialize the second Fibonacci number
+let num1 = 1; 
+let num2 = 2; 
 let sum = 0;  
 
 while (num2 < 4000000) { // The condition for this loop is when the num2 less than 4000000 
