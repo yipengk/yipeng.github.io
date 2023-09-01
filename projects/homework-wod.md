@@ -18,7 +18,7 @@ summary: "isUnique."
  
 </div>
 
-This is the first WOD homework I completed in ICS314. This question comes from CTIT, which is called "isUnique." This WOD requires us to determine whether a string contains all unique characters, that is, whether each character in the string only appears once. When I got this wod, my original idea was to do two loops to compare, and if there's the same character, it's definitely not unique. My code is as follows:
+This is the first WOD homework I completed in ICS314. This question comes from CTIT, which is called "isUnique." This WOD requires us to determine whether a string contains all unique characters, that is, whether each character in the string only appears once. When I got this wod, my original idea was to do two loops to compare, and if there's the same character, it's not unique. My code is as follows:
 
 ```javascript
 function isUnique(str){
@@ -35,7 +35,8 @@ function isUnique(str){
 let str='apple';
 console.log(isUnique(str));
 ```
-Even though my original idea is simple, it is not good because it is inefficient, and its time complexity is O(n^2), which means that as the input string increases, the required time grows quadratically. So, I watched the instructor's solution.Below is the instructor's solution: 
+Even though my original idea is simple, it is not good because it is inefficient, and its time complexity is O(n^2), which means that as the input string increases, the required time grows quadratically. So, I watched the instructor's solution. (When I glanced at the cover of the instructor's code for a second and found that he was using objects to solve it, I immediately closed the web page and tried to solve it myself with objects. But I tried twice and couldn't solve it, so I watched the instructor's video to learn the solution.)
+Below is the instructor's solution: 
 
 ```javascript
 function isUnique(str){
