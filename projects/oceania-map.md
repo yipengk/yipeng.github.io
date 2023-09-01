@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: i.imgur.com/vRPqu6t.png
+image: https://i.imgur.com/8bG0eB6.jpg
 title: "Oceania map"
 date: 2023-08-31
 published: true
