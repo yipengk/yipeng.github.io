@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Software Engineering?Why and what?"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2023-08-31
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Software engineering
+  - Question
 ---
 
 
