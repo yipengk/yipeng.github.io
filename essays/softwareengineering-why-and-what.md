@@ -9,12 +9,10 @@ labels:
   - Software engineering
   - Question
 ---
-<div class="text-center p-4">
-  <img width="400px" 
-       src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/634970c7cbeed5837b11b938_62fd57ccd6890f25796f92f9_AdobeStock_295461823-p-1600.jpeg" 
-       class="img-thumbnail" >
-</div>
 
+<img width="400px" 
+     class="rounded float-start pe-4" 
+     src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/634970c7cbeed5837b11b938_62fd57ccd6890f25796f92f9_AdobeStock_295461823-p-1600.jpeg" >
 # Why study Software Engineering?  
 Interest is the first. As an ordinary person, I can easily feel the significant changes that software engineering development has brought to my life. I can rely on software engineers' software to buy tickets, order takeout, contact my family, find jobs, go to school, get the information I want, or share ideas with different people on social media... My daily life is influenced by software engineering all the time. One day, I was suddenly curious about how this daily life happened around me, so I began my study of software engineering.
 # What is Software Engineering?
