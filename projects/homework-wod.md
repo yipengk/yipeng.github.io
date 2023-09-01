@@ -14,7 +14,7 @@ summary: "isUnique."
  
 
 <div class="text-center p-4">
-  <img width="400px" src="https://www.computerhope.com/jargon/j/javascript.png" class="img-thumbnail" >
+  <img width="400px" src="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg?w=740" >
  
 </div>
 
