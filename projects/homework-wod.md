@@ -9,7 +9,7 @@ labels:
   - Software engineering
   - Javascript
   - Technology
-summary: "My first homework WOD in ICS314."
+summary: "isUnique."
 ---
  
 </div>
