@@ -10,7 +10,7 @@ labels:
   - Question
 ---
 <div class="text-center p-4">
-  <img width="200px" 
+  <img width="400px" 
        src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/634970c7cbeed5837b11b938_62fd57ccd6890f25796f92f9_AdobeStock_295461823-p-1600.jpeg" 
        class="img-thumbnail" >
 </div>
