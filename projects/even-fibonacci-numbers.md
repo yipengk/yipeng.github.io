@@ -12,7 +12,7 @@ labels:
 summary: "Take the items in the Fibonacci sequence that are no more than four million and add up the even numbers."
 ---
  <div class="text-center p-4">
-  <img width="600px" src="https://medium.com/swlh/introduction-to-javascript-basics-cf901c05ca47" >
+  <img width="600px" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*LyZcwuLWv2FArOumCxobpA.png" >
  
 </div>
 
