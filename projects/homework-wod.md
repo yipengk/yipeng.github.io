@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: miro.medium.com/v2/resize:fit:1400/1*LyZcwuLWv2FArOumCxobpA.png
+image: https://www.computerhope.com/jargon/j/javascript.png
 title: "Homework WOD"
 date: 2023-08-31
 published: true
@@ -13,7 +13,10 @@ summary: "isUnique."
 ---
  
 
-<img class="img-fluid" src="https://miro.medium.com/v2/resize:fit:1400/1*LyZcwuLWv2FArOumCxobpA.png">
+<div class="text-center p-4">
+  <img width="200px" src="https://www.computerhope.com/jargon/j/javascript.png" class="img-thumbnail" >
+ 
+</div>
 
 This is the first WOD homework I completed in ICS314. This question comes from CTIT, which is called "isUnique." This WOD requires us to determine whether a string contains all unique characters, that is, whether each character in the string only appears once. When I got this wod, my original idea was to do two loops to compare, and if there's the same character, it's definitely not unique. My code is as follows:
 
