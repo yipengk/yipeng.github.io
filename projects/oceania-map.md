@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/500.png
+image: img/1st.png
 title: "Oceania map"
 date: 2023-08-31
 published: true
@@ -14,7 +14,7 @@ summary: "Group activity: Drawing a map of Oceania."
  
 
 <div class="text-center p-4">
-  <img width="200px" src="https://i.imgur.com/JApQAuT.jpg" >
+  <img width="600px" src="https://i.imgur.com/JApQAuT.jpg" >
  
 </div>
 
