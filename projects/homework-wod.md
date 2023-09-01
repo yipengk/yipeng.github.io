@@ -44,7 +44,7 @@ function isUnique(str){
     }
     chars[str[i]]=true;
   }
-    return true
+    return true;
 }
 let str='apple';
 console.log(isUnique(str));
