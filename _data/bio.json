@@ -44,11 +44,11 @@
  
   "volunteer": [
     {
-      "organization": "Mālama Pu`uloa ",
-      "website": "https://www.malamapuuloa.org/",
-      "position": "Volunteer",
-      "startDate": "2019-11-16",
-      "endDate": "Present",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
         "",
@@ -85,7 +85,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": ""
     }
   ]
 }
