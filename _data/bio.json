@@ -16,7 +16,8 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering " },
+    { "name": "Software Engineering" },
+    { "name": "Data Analysis" },
     { "name": "mobile games" },
     { "name": "dogs" }
   ],
@@ -41,7 +42,7 @@
       ]
     }
   ],
- 
+
 
   "references": [
     {
