@@ -11,7 +11,7 @@ labels:
   - JavaScript
 ---
 
-Many people think about coding standards in trivial ways, such as space of indent or whether place the close-curly-brace on a new line. Those are partial understanding of coding standards. In fact, coding standards are absolutely more than that.Some people are big fans of coding standards and believe that if only one software engineering technique can be implemented to improve code quality, it should be a coding standard. I agree with that. The famous software engineer martin fowler said:
+Many people think about coding standards in trivial ways, such as space of indent or whether place the close-curly-brace on a new line. Those are partial understanding of coding standards. In fact, coding standards are absolutely more than that.Some people are big fans of coding standards and believe that if only one software engineering technique can be implemented to improve code quality, it should be a coding standard. I agree with that. The famous software engineer martin fowler said: 
 
 <p><em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em></p>
 
