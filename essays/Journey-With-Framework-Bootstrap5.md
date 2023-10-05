@@ -11,6 +11,10 @@ labels:
   - Bootstrap 5
 ---
 
+<img width="500px" 
+     class="rounded float-start pe-4" 
+     src="https://www.tutorialrepublic.com/lib/images/bootstrap-5.0-illustration.png" >
+
 Recently, I began exploring Bootstrap 5, marking the beginning of my journey with programming frameworks.   Although I had encountered the term "framework" in various technical forums and magazines, its exact concept was unfamiliar to me.   Even though I had learned a few programming languages previously, I had never really delved into a framework, and it was hard for me to imagine exactly what it was and what it could do.
 
 A framework, true to its name, is indeed a structure. In software engineering, a framework provides an established foundation for building software. With it, we are spared from starting from scratch, saving time and effort and allowing us to focus more on the essential aspects of development. However, learning a framework is a challenging task. Each framework carries its unique coding conventions and best practices, and with the advancement of technology, frameworks are continually evolving, demanding our constant learning. Even so, mastering a framework can enhance our development efficiency, so we still need to learn it despite its complexity. Bootstrap 5, the framework I've recently started learning, is a (web) UI framework. A UI framework provides a set of CSS classes and JavaScript functions that simplify layout development; it also provides an attractive look and feel and consistent results across browsers.
