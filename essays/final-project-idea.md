@@ -19,6 +19,7 @@ Regular Users: These users can browse the directory of planned trips and travele
 Trip Admins: Individuals who create a trip or travel plan have the ability to edit details associated with their proposed journey, from the travel destination to the proposed itinerary. They can approve or disapprove join requests from regular users.<br>
 
 Super Admins: They have the privilege to grant “trip admin” rights to regular users, making them trip admins for their specific travel plans.<br>
+<br>
 Some possible mockup pages include:<br>
 •Login Page<br>
 •User Home Page<br>
