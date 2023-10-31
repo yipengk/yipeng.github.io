@@ -9,7 +9,7 @@ labels:
 ---
 ## Overview
 The problem: Many UHM members look forward to traveling during the holidays, but are hesitant due to unfamiliar destinations, lack of travel companions, or cost-related concerns. <br>
-The solution: Manoa travel together  is an travel application that allows UHM members who wish to travel to find travel companions, share travel expenses, and exchange travel experiences.
+The solution: Manoa Travel Together is an travel application that allows UHM members who wish to travel to find travel companions, share travel expenses, and exchange travel experiences.
 
 ## Approach
 Manoa Travel Together has three main user roles, all of whom login with their UH ID. <br>
@@ -28,10 +28,10 @@ Some possible mockup pages include:<br>
 •Notification Settings<br>
 
 ## Use case ideas
-•New users access the login page and, after logging in, navigate to the homepage to post their travel plans.
-•Users browse other travel plans to find suitable travel companions or plans.
-•Users receive notifications about travel plans that match their settings and decide to contact the poster for collaboration.
+•New users access the login page and, after logging in, navigate to the homepage to post their travel plans.<br>
+•Users browse other travel plans to find suitable travel companions or plans.<br>
+•Users receive notifications about travel plans that match their settings and decide to contact the poster for collaboration.<br>
 
 ## Beyond the basics
-•Sharing detailed information about destinations, such as accommodation, transportation, attractions, etc.
+•Sharing detailed information about destinations, such as accommodation, transportation, attractions, etc.<br>
 •User review and recommendation system.
