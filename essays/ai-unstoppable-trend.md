@@ -43,19 +43,25 @@ When I encounter code I don't understand, I ask AI to explain it to me. I rememb
 If I just change a part of the code in a project, I feel like AI is doing a good job. However, if I ask AI to complete a larger and more complex project, it can do it, but what it provides may not necessarily be what I want. I think AI can support us to do some of the work, but not all of it.
 ## 12.	Documenting code
 I haven't used AI for code documentation. If I need to write documentation, I prefer to do it myself rather than having AI do it because I feel what I write will be more reliable.
-## 13.	Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+## 13.	Quality assurance
 In the future, I will consider using AI to ensure the quality of the code, but I have hardly used AI in this aspect so far
 ## 14.	Other uses in ICS 314 not listed
 When I installed Node.js and npm, I encountered lots of issues with configuring environment variables.  These problems seemed to pile up one after another, and I was almost on the verge of frustration.  I attempted various solutions found online but none of them worked.  Ultimately, with the assistance of AI, I spent approximately three to four hours resolving all the issues step by step.
-# III. Impact on Learning and Understanding:
+
+# III. Impact on Learning and Understanding
 AI has given me confidence in learning. In the past, I often got stuck with some knowledge, which would make me unable to study the later knowledge well. But now I can ask it almost any question I don't know, and I don't have to worry that I'm asking a stupid question, because it will patiently answer my questions no matter how stupid they are. This greatly increased my motivation to study software engineering.
-# IV. Practical Applications:
+
+# IV. Practical Applications
 The practical applications of AI in different fields show variety and profound impact. From AlphaGo's victory over the world champion in the game of Go, it shows the potential of AI in complex strategy, to the use of robotic surgical systems like the Da Vinci surgical robot in the medical field, which improves the safety and efficiency of surgeries. Additionally, innovations in transportation through autonomous driving technology further illustrate this point. These developments are all clear signs that AI is changing the world we live in.
-# V. Challenges and Opportunities:
+
+# V. Challenges and Opportunities
 AI is a great tool, but of course, it also faces many challenges. It has more than once confused my questions or misunderstood my words, even giving incorrect answers. Sometimes when I ask the same question in different ways, it gives inconsistent response. So no matter how much we like using it, please remember that it is a tool and we should not rely on it completely.
-# VI. Comparative Analysis:
+
+# VI. Comparative Analysis
 I still remember that when I first started learning code, I had no idea what the symbols and concepts stood for, and I couldn't understand how it worked in my head. The traditional teaching methods seemed to teach us a lot of theory, but not much about how to put it into practice.I felt like I  just got some brick or cement, and our task was to build a building.I spent a lot of time learning them and understanding them. With the advent of AI, I feel that it has helped me a lot in learning. I used to get stuck for a long time when I encountered code that I didn't understand. But now I can immediately ask the AI to explain to me what I don't understand. Even if I don't understand it well the first time, I can continue to ask it to use a clearer method or give some simple examples to teach me. After that, I will ask it to give me some relevant questions to practice. I am a person who is very afraid to ask people questions, because I am afraid that if I ask a stupid question, I will make people unhappy, but I have no such trouble with AI.
-# VII. Future Considerations:
+
+# VII. Future Considerations
 First of all, we cannot deny the importance of AI to software engineering education. It is a very good learning tool, which can deepen our understanding of the course of software engineering and expand our vision. Its biggest challenge is as students, how we use it properly. You can just choose to let it complete all the tasks, but that is not what we want. As student, our goal is to use it as an aid to gain more knowledge, rather than relying on it to limit our curiosity and desire to learn. Striking the right balance is important, not just for software engineering education, but for all fields that use AI as a learning tool.
-# VIII. Conclusion:
-I believe that the tool of AI holds significant importance for software engineering courses, and it will become an unstoppable trend. As a student in the sciences, I deeply feel the value of AI in assisting learning, helping understand complex concepts, and enhancing programming skills. AI enables me to explore various aspects of software engineering in a more efficient way, thereby improving my understanding and application of these concepts. For the integration of AI in future courses, I think it is crucial to maintain a balance. While using it to help with learning, improving independent analysis and problem solving, as well as how to use AI resources more effectively and increase awareness of AI's limitations are all issues that we should pay more attention .
+
+# VIII. Conclusion
+I believe that the tool of AI holds significant importance for software engineering courses, and it will become an unstoppable trend. As a student in the sciences, I deeply feel the value of AI in assisting learning, helping understand complex concepts, and enhancing programming skills. AI enables me to explore various aspects of software engineering in a more efficient way, thereby improving my understanding and application of these concepts. For the integration of AI in future courses, I think it is crucial to maintain a balance. While using it to help with learning, improving independent analysis and problem solving, as well as how to use AI resources more effectively and increase awareness of AI's limitations are all issues that we should pay more attention.
