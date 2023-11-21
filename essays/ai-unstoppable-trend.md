@@ -21,30 +21,43 @@ The impact of artificial intelligence in education is significant! It's not just
 # II. Personal Experience with AI:
 ## 1.	Experience WODs 
 I use AI a lot in Experience WODs , although we can watch videos of professors, but when I actually operate it, I still encounter many questions. Moreover, the professor in the video has a MAC operating system and I have a WINDOWS operating system, and when there is such a difference, the AI can tell me to use the correct command line to complete the operation.
+
 ## 2.	In-class Practice WODs
 I have not used AI in In-class Practice WODs. The time for In-class Practice WODs is limited, and sometimes we need to discuss with classmates. Professor will explain the topic to us after the time is up. So, I feel like I don't need to use it in In-class Practice WODs.
+
 ## 3.	In-class WODs
 In In-class WODs, I will ask the AI when I can't remember syntax or the bug I can't solve it. I remember once I thought that my code was correct, but it just couldn't run successfully, and finally I found out with the support of AI that it was because of a small typo. But overall, I use AI less in In-class WODs than homework WODs. The main reason is that In-class WODs are timed, and communication with AI may require several rounds of conversation to guide it before it can help us solve problems. This takes too much time.
+
 ## 4.	Essays
 When writing essays, I sometimes use AI to help me modify grammar or check errors.
+
 ## 5.	Final project
 I haven't used AI much at the moment because we're using the existing meteor template. But I think as the project progresses, we may encounter some difficult problems that require AI support and assistance.
+
 ## 6.	Learning a concept / tutorial
 When learning a concept/tutorial, I often use AI to explain the relevant knowledge to me.
+
 ## 7.	Answering a question in class or in Discord
-I haven't used it to answer questions in class because I'm a bit socially anxious and afraid of speaking in public
+I haven't used it to answer questions in class because I'm a bit socially anxious and afraid of speaking in public.
+
 ## 8.	Asking or answering a smart-question
 I have not used AI to answer questions on smart-question, I think each of our environment and system may be different, even if I ask AI, I don't think it will give the right answer. I will only answer questions from other students on Discord after I have already fully understood the question myself.
+
 ## 9.	Coding example e.g. “give an example of using Underscore .pluck”
 I'll ask the AI to show me some code examples. Especially when learning Underscore libraries, it shows me a lot of examples to help me understand them.
+
 ## 10.	Explaining code
 When I encounter code I don't understand, I ask AI to explain it to me. I remember when I first encountered ES6, I was really confused. I had artificial intelligence explain it to me line by line and it was really helpful.
+
 ## 11.	Writing code
 If I just change a part of the code in a project, I feel like AI is doing a good job. However, if I ask AI to complete a larger and more complex project, it can do it, but what it provides may not necessarily be what I want. I think AI can support us to do some of the work, but not all of it.
+
 ## 12.	Documenting code
 I haven't used AI for code documentation. If I need to write documentation, I prefer to do it myself rather than having AI do it because I feel what I write will be more reliable.
+
 ## 13.	Quality assurance
-In the future, I will consider using AI to ensure the quality of the code, but I have hardly used AI in this aspect so far
+In the future, I will consider using AI to ensure the quality of the code, but I have hardly used AI in this aspect so far.
+
 ## 14.	Other uses in ICS 314 not listed
 When I installed Node.js and npm, I encountered lots of issues with configuring environment variables.  These problems seemed to pile up one after another, and I was almost on the verge of frustration.  I attempted various solutions found online but none of them worked.  Ultimately, with the assistance of AI, I spent approximately three to four hours resolving all the issues step by step.
 
