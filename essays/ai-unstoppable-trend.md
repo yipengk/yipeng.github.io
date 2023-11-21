@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img width="500px" 
+<img width="800px" 
      class="rounded float-start pe-4" 
      src="https://www.dataplugs.com/wp-content/uploads/2019/09/ai_blog1.jpg.webp" >
 
