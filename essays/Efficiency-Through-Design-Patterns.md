@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Design patterns 
 ---
-<img width="500px" 
+<img width="120px" 
      class="rounded float-start pe-4" 
      src="https://www.qingxin.org/images/design_pattern_0.jpg" >
 
