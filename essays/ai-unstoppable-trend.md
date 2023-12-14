@@ -11,9 +11,9 @@ labels:
   - Reflection
 ---
 
-<img width="1200px" 
+<img width="1000px" 
      class="rounded float-start pe-4" 
-     src="https://www.dataplugs.com/wp-content/uploads/2019/09/ai_blog1.jpg.webp" >
+     src="https://www.dataplugs.com/wp-content/uploads/2019/09/ai_blog1.jpg.webp" ><br>
 
 # I. Introduction
 The impact of artificial intelligence in education is significant! It's not just changing how we teach and learn, but also greatly improves the efficiency and quality of education. In the field of software engineering, through the use of AI tools, we are able to access more advanced programming techniques that are difficult to achieve in traditional teaching models. In the past, my concept of artificial intelligence was very vague and broad, but since I started using it this year, this vague imagination has become real and concrete. The AI I have used is [ChatGPT](https://openai.com/chatgpt), [CoPilot](https://copilot.microsoft.com), [Claude 2](https://www.anthropic.com/index/claude-2), in the course ICS314, I usually use ChatGPT because I think chatgpt is more like a science student, whereas claude2 is like a liberal arts student
