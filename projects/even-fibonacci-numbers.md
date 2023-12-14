@@ -4,7 +4,7 @@ type: project
 image: img/3rd.png
 title: "Even Fibonacci Numbers"
 date: 2023-08-31
-published: true
+published: false
 labels:
   - Software engineering
   - Javascript
