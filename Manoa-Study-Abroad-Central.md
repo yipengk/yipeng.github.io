@@ -14,7 +14,7 @@ summary: "Worked with a team to develop a digital platform dedicated to simplify
  
 
 <div class="text-center p-4">
-  <img width="1000px" src="https://manoa-study-abroad-central.github.io/doc/M3-LandingPage1.png" >
+  <img width="1200px" src="https://manoa-study-abroad-central.github.io/doc/M3-LandingPage1.png" >
 </div>
 
 
