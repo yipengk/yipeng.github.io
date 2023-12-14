@@ -4,7 +4,7 @@ type: essay
 title: "New Challenge"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-29
-published: true
+published: false
 labels:
   -Software Engineering
   -Challenge
