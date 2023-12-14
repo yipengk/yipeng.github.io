@@ -1,0 +1,60 @@
+{
+  "basics": {
+    "name": "Yi Peng",
+    "label": "Student",
+    "picture": "https://github.com/yipengk.png",
+    "email": "pengyi@hawaii.edu",
+    "phone": "929-361-4215",
+    "website": "https://yipengk.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.
+
+",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "yipengk", "url": "http://github.com/yipengk" },
+      { "network": "linkedin", "username": "yipeng", "url": "http://linkedin.com/in/yi-p-246b74261/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Data Analysis" },
+    { "name": "mobile games" },
+    { "name": "dogs" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Perl" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Linux", "Git/GitHub", "g++" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+ "work": [
+    {
+      "company": "SanXin Holding Group Co. Ltd",
+      "position": "Executive Assistant to CEO",
+      "startDate": "2016-06",
+      "endDate": "2017-07",
+      "summary": "Providing comprehensive support to the CEO，facilitate communication, and coordinate executive activities",
+      "highlights":[]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
