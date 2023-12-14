@@ -28,7 +28,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Linux", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
@@ -42,17 +42,16 @@
       ]
     }
   ],
- "Work": [
+ "work": [
     {
       "company": "SanXin Holding Group Co. Ltd",
       "position": "Executive Assistant to CEO",
-      "startDate": "2016-06-17",
-      "endDate": "2017-7-30",
+      "startDate": "2016-06",
+      "endDate": "2017-07",
       "summary": "Providing comprehensive support to the CEO，facilitate communication, and coordinate executive activities"
+      "highlights":[]
     }
   ],
-
-
   "references": [
     {
       "name": "Available upon request"
